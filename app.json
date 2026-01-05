@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "React Native Dropdowns",
+    "slug": "react-native-dropdowns",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.monocept.reactnativedropdowns"
+    },
+    "android": {
+      "package": "com.monocept.reactnativedropdowns"
+    }
+  }
+}
